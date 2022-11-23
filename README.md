@@ -1,4 +1,4 @@
-👋 Hi, I’m @boyarsky. I'm a published author of Java Certification books and a Java Champion. I blog at [selikoff.net](https://www.selikoff.net)
+👋 Hi, I’m Jeanne Boyarsky. I'm a published author of Java Certification books and a Java Champion. I blog at [selikoff.net](https://www.selikoff.net)
 
 📫 You can reach me at
 - [CodeRanch](https://coderanch.com/wiki/660334/Bio-Jeanne-Boyarsky)
