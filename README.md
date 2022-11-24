@@ -2,8 +2,8 @@
 
 📫 You can reach me at
 - [CodeRanch](https://coderanch.com/wiki/660334/Bio-Jeanne-Boyarsky)
-- Twitter - [@jeanneboyarsky](http://twitter.com/jeanneboyarsky)
-- Mastodon - <a rel="me" href="https://mastodon.social/@jeanneboyarsky">@jeanneboyarsky@mastodon.social</a>
+- [Twitter](http://twitter.com/jeanneboyarsky)
+- <a rel="me" href="https://mastodon.social/@jeanneboyarsky">Mastodon</a>
 
 <!---
 boyarsky/boyarsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
